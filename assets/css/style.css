@@ -1,0 +1,16 @@
+body {
+	background-image: url('../images/rps.jpg');
+	background-color: black;
+	background-size: cover;
+	color: white;
+}
+
+.jumbotron {
+	/*background-color: grey;*/
+	background-color: rgba(0, 0, 0, 0.4);
+
+}
+
+button, input {
+	color: black;
+}
